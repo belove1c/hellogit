@@ -1,3 +1,2 @@
 Hello world and GIT!
 And other programms!
-new string!
